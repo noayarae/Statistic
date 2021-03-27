@@ -1,4 +1,4 @@
-#### Toma de decisiones en condiciones de certeza, incertidumbre y riesgo
+### Toma de decisiones en condiciones de certeza, incertidumbre y riesgo
 La toma de decisiones es un proceso que enfrentan los humanos a diario. La toma de decisiones se dan en tres condiciones: certeza, incertidumbre y riesgo.
 
 ##### Toma de decisiones en condiciones de certeza
@@ -9,6 +9,8 @@ En el caso de toma de decisiones bajo incertidumbre la probabilidad de ocurrenci
 
 ##### Toma de decisiones en condiciones de riesgo
 La toma de decisiones bajo riesgo implica que las probabilidades de los resultados son conocidos.
-Las reglas de decision bajo riesgo pueden clasificarse en dos: normativas (teoria de utilidad expectada y teoria de la sensibilidad al riesgo) y descritivas (teoria prospectiva y enfoques heurísticos)
+Las reglas de decision bajo riesgo pueden clasificarse en dos: 
+- Normativas (teoria de utilidad expectada y teoria de la sensibilidad al riesgo) y 
+- Descritivas (teoria prospectiva y enfoques heurísticos)
 
 
