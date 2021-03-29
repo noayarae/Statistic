@@ -6,7 +6,8 @@ La toma de decisiones en condiciones de certeza se establece en escenarios en el
 
 #### Toma de decisiones en condiciones de incertidumbre
 En el caso de toma de decisiones bajo incertidumbre la probabilidad de ocurrencia de varios estados de la naturaleza del problema no son conocidos. Las reglas más importantes de decision bajo incertidumbre son: Laplace, Wald, Hurwicz, y Savage.
-Los tipos de incertidumbre son: incertidumbre de ingreso al modelo e incertidumbre del modelo.
+Los tipos de incertidumbre son: incertidumbre de ingreso al modelo e incertidumbre del modelo. La incertidumbre de ingreso es atribuido a la heterogeneidad de la naturaleza y a la falta de conocimiento, pero la incertidumbre del modelo es siempre atribuido a la falta de conocimiento.
+
 ##### Incertidumbre de entrada al modelo
 La incertidumbre de entrada surge de la falta de conocimiento sobre el verdadero valor de las cantidades utilizadas al analizar una decisión. A menudo, estas cantidades se encuentran en modelos científicos que se utilizan para respaldar una decisión, como los modelos hidrológicos y ambientales.
 ##### Incertidumbre del modelo
