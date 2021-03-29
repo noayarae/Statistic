@@ -14,7 +14,7 @@ La incertidumbre del modelo es la incertidumbre sobre la forma del modelo utiliz
 
 
 
-#### Toma de decisiones en condiciones de riesgo
+#### Toma de decisiones en condiciones de riesgo.
 La toma de decisiones bajo riesgo implica que las probabilidades de los resultados son conocidos.
 Las reglas de decision bajo riesgo pueden clasificarse en dos: 
 - Normativas (teoría de utilidad expectada y teoría de la sensibilidad al riesgo) y 
