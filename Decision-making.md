@@ -9,7 +9,7 @@ La toma de decisiones en condiciones de certeza se establece en escenarios en el
 - Una toma de decisiones racional requiere que quien toma las decisiones establesca los objetivos de decision, identifique las alternativas y evalue esas alternativas con respecto a esos objetivos.
 - Con frecuencia, existe mucha incertidumbre en el pronóstico de la salida de las alternativas especialmente cuando las el problema es complejo.
 - La decisión es de riesgo porque la alternativa resultante puede resultar en una perdida potencial que incluyen perdida de oportunidades o resultados no óptimos.
-- En el caso de toma de decisiones bajo incertidumbre la probabilidad de ocurrencia de varios estados de la naturaleza del problema no son conocidos. Las reglas más importantes de decision bajo incertidumbre son: Laplace, Wald, Hurwicz, y Savage.
+- En el caso de toma de decisiones bajo incertidumbre la probabilidad de ocurrencia de varios estados de la naturaleza del problema no son conocidos. Las reglas más importantes de decision bajo incertidumbre son: **Laplace, Wald, Hurwicz, y Savage**.
 - Los tipos de incertidumbre son: incertidumbre de ingreso al modelo e incertidumbre del modelo. La incertidumbre de ingreso es atribuido a la heterogeneidad de la naturaleza y a la falta de conocimiento, pero la incertidumbre del modelo es siempre atribuido a la falta de conocimiento.
 
 ##### Incertidumbre de entrada al modelo
