@@ -1,10 +1,10 @@
 ## Toma de decisiones en condiciones de certeza, incertidumbre y riesgo
 La toma de decisiones es un proceso que enfrentan los humanos a diario. La toma de decisiones se dan en tres condiciones: certeza, incertidumbre y riesgo.
 
-#### Toma de decisiones en condiciones de certeza
+### 1. Toma de decisiones en condiciones de certeza
 La toma de decisiones en condiciones de certeza se establece en escenarios en el cual el tomador de decisiones conoce con certeza las consecuencias de las acciones tomadas.
 
-#### Toma de decisiones en condiciones de incertidumbre
+### 2. Toma de decisiones en condiciones de incertidumbre
 - La incertidumbre es un factor inevitable en la toma de decisiones de riesgo. Las decisiones de riesgo son procesos de rutina.
 - Una toma de decisiones racional requiere que quien toma las decisiones establesca los objetivos de decision, identifique las alternativas y evalue esas alternativas con respecto a esos objetivos.
 - Con frecuencia, existe mucha incertidumbre en el pronóstico de la salida de las alternativas especialmente cuando las el problema es complejo.
@@ -20,7 +20,7 @@ La incertidumbre del modelo es la incertidumbre sobre la forma del modelo utiliz
 
 
 
-#### Toma de decisiones en condiciones de riesgo.
+### 3. Toma de decisiones en condiciones de riesgo.
 La toma de decisiones bajo riesgo implica que las probabilidades de los resultados son conocidos.
 Las reglas de decision bajo riesgo pueden clasificarse en dos: 
 - Normativas (teoría de utilidad expectada y teoría de la sensibilidad al riesgo) y 
