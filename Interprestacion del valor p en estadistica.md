@@ -1,7 +1,7 @@
 # Interpretación del valor de P en estadística
 El valor de P es usado ampliamente en estadística desde los test de t hasta los análisis de regresión. Se sabe que el valor de P se emplea para determinar el nivel de significancia de una hipótesis. El valor de P muchas veces determina si un estudio se publica, si un producto se lanza al mercado, si un proceso se modifica, etc.
 De esta forma el valor de P toma un nivel de mucha importancia dentro de una investigación.
-Para entender el valor de P, se debe primero entender que es la hipótesis nula,
+Para entender el valor de P, se debe primero entender que es la hipótesis nula.
 En todo estudio, siempre se busca que los resultados de un proceso o experimento sean similares o diferentes entre los grupos que los investigadores están analizando. 
 
 Por ejemplo, en el estudio de un nuevo medicamento, siempre se desea evaluar la efectividad del nuevo medicamento en la población segmento. Desafortunadamente, para los investigadores, siempre hay la posibilidad de que el nuevo medicamento no haga efecto, es decir no habrá ninguna diferencia entre la población que ingirió el medicamento y la población que no lo hizo. La “no-diferencia” (falta de diferencia) entre las dos poblaciones se denomina hipótesis nula, que es prácticamente es la posición que tomaría un abogado incrédulo del medicamento al evaluar los resultados del experimento.
