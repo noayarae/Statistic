@@ -9,7 +9,7 @@ La toma de decisiones dentro de un EDSS se pueden organizar en tres fases: (i) l
 
 
 #### Referencias:
-- David A. Swayn et al. Environmental Decision Support Systems: Exactly What Are They?, Workshop Report
+- <sub>David A. Swayn et al. Environmental Decision Support Systems: Exactly What Are They?, Workshop Report </sub>
 
 - R.V.Arutyunyan et al. Environmental Decision Support System on Base of Geoinformational Technologies for the Analysis of Nuclear Accident Consequences.
 
