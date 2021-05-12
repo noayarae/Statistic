@@ -3,12 +3,12 @@ Los sistemas de apoyo en la toma de decisiones ambientales (Environmental Decisi
 Algunos ejemplos de la aplicacion de los EDSS son: diseño de políticas de manejo de cuencas incluyendo stakeholders, identificación de impactos sociales espaciales, manejo de gestion de riesgo, evaluación de peligros naturales.
 
 
-Referencias:
-David A. Swayn et al. Environmental Decision Support Systems: Exactly What Are They?, Workshop Report
+#### Referencias:
+- David A. Swayn et al. Environmental Decision Support Systems: Exactly What Are They?, Workshop Report
 
-R.V.Arutyunyan et al. Environmental Decision Support System on Base of Geoinformational Technologies for the Analysis of Nuclear Accident Consequences.
+- R.V.Arutyunyan et al. Environmental Decision Support System on Base of Geoinformational Technologies for the Analysis of Nuclear Accident Consequences.
 
-Steven S. Fine. THE ENVIRONMENTAL DECISION SUPPORT SYSTEM: OVERVIEW AND AIR QUALITY APPLICATION
+- Steven S. Fine. THE ENVIRONMENTAL DECISION SUPPORT SYSTEM: OVERVIEW AND AIR QUALITY APPLICATION
 
 
 
