@@ -17,5 +17,5 @@ La toma de decisiones dentro de un EDSS se pueden organizar en tres fases: (i) l
 
 - B.S. McIntosh et al. Environmental decision support systems (EDSS) development - Challenges andbest practices
 
-<font size="+2"> This is my text number1</font>
+<font size="+1"> This is my text number1</font>
 
