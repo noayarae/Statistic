@@ -17,5 +17,24 @@ La toma de decisiones dentro de un EDSS se pueden organizar en tres fases: (i) l
 
 - B.S. McIntosh et al. Environmental decision support systems (EDSS) development - Challenges andbest practices
 
-<font size="+8"> This is my text number1</font>
+<!--
+<sub>...</sub> is used to make font size small
+-->
+
+<table>
+  <thead>
+    <tr>
+      <th><sub>Test Case</sub></th>
+      <th><sub>Brief Explanation</sub></th><th><sub>Go Result</sub></th><th><sub>Python Result</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><sub>simple</sub></td>
+      <td>- <sub>Upload parent image and child image</sub><br>- <sub>Get ancestry of child image</sub> <br>- <sub>Verify child and parent image ids</sub></td>
+      <td><sub>Fail</sub></td>
+      <td><sub>Pass</sub></td>
+    </tr>
+  </tbody>
+</table>
 
