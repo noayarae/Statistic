@@ -4,9 +4,9 @@ El valor de P, ampliamente usado en estadística desde los test de t hasta los a
 Para entender el valor de P, se debe primero entender que es la hipótesis nula. En todo estudio, siempre se busca que los resultados de un proceso o experimento sean similares o diferentes entre los grupos que los investigadores están analizando. **Por ejemplo,** en el estudio de un nuevo medicamento, se desea evaluar la efectividad del nuevo medicamento en la población segmento. Desafortunadamente, para los investigadores, siempre hay la posibilidad de que el nuevo medicamento no haga efecto, es decir no habrá ninguna diferencia entre la población que ingirió el medicamento y la población que no lo hizo. **La “no-diferencia” (falta de diferencia) entre las dos poblaciones se denomina hipótesis nula**, que es prácticamente es la posición que tomaría un abogado incrédulo del medicamento al evaluar los resultados del experimento.
 Entonces, si se tiene un experimento de un medicamento que es totalmente inefectivo, la hipótesis nula es verdadera, es decir no hay diferencia entre los grupos de población que tomaron y no tomaron el medicamento.
 
-Objetivo del estudio: evaluar la efectividad de un nuevo medicamento.
-Cuestionamiento: Existe la posibilidad de que el nuevo medicamento no haga efecto en los que ingirieron (No-diferencia entre los que ingirieron y no ingirieron el medicamento).
-Hipotesis Nula: No hay efecto del nuevo medicamento. No hay diferencia entre las poblaciones que ingirieron y no ingirieron.
+- Objetivo del estudio: evaluar la efectividad de un nuevo medicamento.
+- Cuestionamiento: Existe la posibilidad de que el nuevo medicamento no haga efecto en los que ingirieron (No-diferencia entre los que ingirieron y no ingirieron el medicamento).
+- Hipotesis Nula: No hay efecto del nuevo medicamento. No hay diferencia entre las poblaciones que ingirieron y no ingirieron.
 
 A pesar que la hipótesis nula sea verdadera, existe la posibilidad de que la muestra no sea representativa y que haya sido tomada erróneamente, en un segmento sesgado de la población. Aunque esto sea poco probable en muchos casos, existe tal posibilidad. Por tanto, la posición del abogado incrédulo debe ser que la diferencia observada en las muestras no refleja una verdadera diferencia verdadera entre las poblaciones que tomaron y no tomaron el medicamento. 
 # El valor de P
