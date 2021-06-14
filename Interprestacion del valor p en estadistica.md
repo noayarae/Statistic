@@ -8,6 +8,7 @@ Entonces, si se tiene un experimento de un medicamento que es totalmente inefect
 - Cuestionamiento: Existe la posibilidad de que el nuevo medicamento no haga efecto en los que ingirieron (No-diferencia entre los que ingirieron y no ingirieron el medicamento).
 - Hipotesis Nula (anular): No hay efecto del nuevo medicamento. No hay diferencia entre las poblaciones que ingirieron y no ingirieron.
 - Se desea probar si **el efecto del nuevo medicamento el a personas que ingirieron** es diferente diferente **a las personas que no tomaron el medicamento**[1].
+             
              Hipótesis nula    Ho: m1 = m2
              Hipótesis alterna Ha: m1 <> m2
 
