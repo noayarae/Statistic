@@ -7,6 +7,9 @@ Entonces, si se tiene un experimento de un medicamento que es totalmente inefect
 - Objetivo del estudio: evaluar la efectividad de un nuevo medicamento.
 - Cuestionamiento: Existe la posibilidad de que el nuevo medicamento no haga efecto en los que ingirieron (No-diferencia entre los que ingirieron y no ingirieron el medicamento).
 - Hipotesis Nula (anular): No hay efecto del nuevo medicamento. No hay diferencia entre las poblaciones que ingirieron y no ingirieron.
+Se desea probar si **el efecto del nuevo medicamento el a personas que ingirieron** es diferente diferente **a las personas que no tomaron el medicamento**[1].
+             Hipótesis nula    Ho: m1 = m2
+             Hipótesis alterna Ha: m1 <> m2
 
 A pesar que la hipótesis nula sea verdadera, existe la posibilidad de que la muestra no sea representativa y que haya sido tomada erróneamente, en un segmento sesgado de la población. Aunque esto sea poco probable en muchos casos, existe tal posibilidad. Por tanto, la posición del abogado incrédulo debe ser que la diferencia observada en las muestras no refleja una verdadera diferencia verdadera entre las poblaciones que tomaron y no tomaron el medicamento. 
 # El valor de P
@@ -15,3 +18,7 @@ El valor de P evalúa que tan bien la muestra apoya el argumento del abogado inc
 -	Un bajo valor de P indica que la muestra no tenga probablemente una hipótesis nula verdadera.
 
 Entonces un valor bajo de P sugiere que la muestra provee suficiente evidencia que uno puede rechazar la hipótesis nula para la población (es decir, en el ejemplo mencionado, los efectos de la población que tomo la nueva medicina si ofrece diferencias significativas sobre la población que no tomó la medicina).
+
+
+Referencias:
+[1] https://courses.lumenlearning.com/introstats1/chapter/null-and-alternative-hypotheses/
