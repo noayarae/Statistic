@@ -15,10 +15,15 @@ El valor de P determina si la relación entre la variable independiente y depend
 -	Si P > 0.05, la muestra no da suficiente evidencia para concluir una no-cero correlación X-Y.
 
 En el siguiente ejemplo, las variables South y North son estadísticamente significativas porque sus valores de P son menores a 0.05. Mientras que la variable East no es significativa porque P > 0.05.
+
 ![](images/table_Linear_Reg_001.png)
  
 El valor de P también se emplea para decidir que variables considerar en el modelo de RL final. Las variables cuyos valores de P son mayores al nivel de significancia generalmente son removidos del modelo de RL. Mantener variables estadísticamente no significativas (con P > 0.05) pueden reducir la precisión del modelo de RL.
 
+#### Coeficiente de regresión lineal
+El signo del coeficiente de regresión indica si existe una positiva o negativa correlación entre cada variable independiente (variable predictora - X) y la variable dependiente (variable predicha – Y). Un coeficiente positivo indica que, si la variable independiente crece, la media de la variable dependiente también tiende a incrementar. Un coeficiente negativo indica que, si la variable X incrementa, la variable Y tiende a reducir.
+
+Los coeficientes de regresión también indican cuanto es el cambio de la variable dependiente dado el cambio en una unidad de la variable independiente mientras se mantienen constantes las otras variables del modelo. Esta evaluación de mantener constante las otras variables es útil porque permite evaluar el efecto de cada variable de forma aislada de las demás.
 
 
 
