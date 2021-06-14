@@ -23,7 +23,7 @@ El valor de P también se emplea para decidir que variables considerar en el mod
 #### Coeficiente de regresión lineal
 El signo del coeficiente de regresión indica si existe una positiva o negativa correlación entre cada variable independiente (variable predictora - X) y la variable dependiente (variable predicha – Y). Un coeficiente positivo indica que, si la variable independiente crece, la media de la variable dependiente también tiende a incrementar. Un coeficiente negativo indica que, si la variable X incrementa, la variable Y tiende a reducir.
 
-Los coeficientes de regresión también indican cuanto es el cambio de la variable dependiente dado el cambio en una unidad de la variable independiente mientras se mantienen constantes las otras variables del modelo. Esta evaluación de mantener constante las otras variables es útil porque permite evaluar el efecto de cada variable de forma aislada de las demás.
+Los coeficientes de regresión también indican cuanto es el cambio de la variable dependiente dado el cambio en una unidad de la variable independiente mientras se mantienen constantes las otras variables del modelo. Esta evaluación de mantener constante las otras variables es útil porque permite evaluar el efecto de cada variable de forma aislada de las demás..
 
 
 
