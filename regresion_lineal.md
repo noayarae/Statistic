@@ -12,6 +12,6 @@ En el siguiente ejemplo, las variables South y North son estadísticamente signi
  
 El valor de P también se emplea para decidir que variables considerar en el modelo de RL final. Las variables cuyos valores de P son mayores al nivel de significancia generalmente son removidos del modelo de RL. Mantener variables estadísticamente no significativas (con P > 0.05) pueden reducir la precisión del modelo de RL.
 
-< img src="images/table_Linear_Reg_001.png">
+<img src="images/table_Linear_Reg_001.png">
 
 
