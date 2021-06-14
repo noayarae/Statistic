@@ -26,5 +26,6 @@ El signo del coeficiente de regresión indica si existe una positiva o negativa 
 Los coeficientes de regresión también indican cuanto es el cambio de la variable dependiente dado el cambio en una unidad de la variable independiente mientras se mantienen constantes las otras variables del modelo. Esta evaluación de mantener constante las otras variables es útil porque permite evaluar el efecto de cada variable de forma aislada de las demás..
 
 
-
+#### Referencias
+https://courses.lumenlearning.com/introstats1/chapter/null-and-alternative-hypotheses/
 
